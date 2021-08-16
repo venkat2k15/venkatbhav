@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @venkatbhav
+- 👋 Hi, I’m @venkat
 - 👀 I’m interested in Wireless Sensor networks, IoT, optimization methods and Machine learning
 - 🌱 I’m currently learning Pyhton, IoT and machine learning
 - 💞️ I’m looking to collaborate on IoT-optimization 
